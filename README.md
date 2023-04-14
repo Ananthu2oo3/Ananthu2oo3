@@ -70,7 +70,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Ananthu2003" target="_blank">
+<a href="https://github.com/Ananthu2oo3" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ananthakrishnan-g-6537a4230" target="_blank">
