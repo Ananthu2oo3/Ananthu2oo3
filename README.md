@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
-</div>  
+
+# <div align="center">Hello World..!!</div>
   
 
 ### <div align="center">I'm Ananthakrishnan, Programming enthusiast, UI/UX designer and a budding DevOps engineer.</div>  
@@ -88,13 +87,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ananthu2oo3&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
 ## Recent Blog Posts  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -105,16 +97,4 @@
 
 <br/>  
 
-  
 
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
