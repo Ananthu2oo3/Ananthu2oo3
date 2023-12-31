@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Machine Learning   
   
 
-- 🌱 I’m currently learning Data Analysis and Natural Language Processing  
+- 🌱 I’m currently learning Data Analytics and Natural Language Processing  
   
 
 - ❓ Ask me about anything related to Designing in Figma  
