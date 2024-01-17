@@ -2,7 +2,7 @@
 # <div align="center">Hello World..!!</div>
   
 
-### <div align="center">I'm Ananthakrishnan, Programming enthusiast, UI/UX designer and a budding DevOps engineer.</div>  
+### <div align="center">I'm Ananthakrishnan, Programming enthusiast, UI/UX designer and a budding Machine Learning engineer.</div>  
   
 
 - 🔭 I’m currently working on Machine Learning   
